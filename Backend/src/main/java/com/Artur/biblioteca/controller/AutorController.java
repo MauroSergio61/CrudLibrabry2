@@ -1,7 +1,7 @@
-package com.Arthur.biblioteca.controller;
+package com.Artur.biblioteca.controller;
 
-import com.Arthur.biblioteca.model.Autor;
-import com.Arthur.biblioteca.service.AutorService;
+import com.Artur.biblioteca.model.Autor;
+import com.Artur.biblioteca.service.AutorService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

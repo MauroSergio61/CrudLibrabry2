@@ -1,7 +1,7 @@
-package com.Arthur.biblioteca.service;
+package com.Artur.biblioteca.service;
 
-import com.Arthur.biblioteca.model.Autor;
-import com.Arthur.biblioteca.repository.AutorRepository;
+import com.Artur.biblioteca.model.Autor;
+import com.Artur.biblioteca.repository.AutorRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

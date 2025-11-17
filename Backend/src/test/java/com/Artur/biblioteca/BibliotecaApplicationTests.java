@@ -1,4 +1,4 @@
-package com.Arthur.biblioteca;
+package com.Artur.biblioteca;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
